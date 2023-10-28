@@ -17,6 +17,7 @@ function FilteredEventsPage() {
   const filteredYear = filterData[0];
   const filteredMonth = filterData[1];
 
+  // '+' sign converts a string to a number in JS
   const numYear = +filteredYear;
   const numMonth = +filteredMonth;
 
