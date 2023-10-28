@@ -17,3 +17,5 @@ function MainHeader() {
     </header>
   );
 }
+
+export default MainHeader;
